@@ -12,3 +12,5 @@ public class Day2StackOperations{
         }
     }
 } 
+//no Null values are allowed in Stack. If we try to add null value, 
+// it will throw NullPointerException.
